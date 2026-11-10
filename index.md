@@ -2,6 +2,7 @@
 Selamat Datang di Perpustakaan Digital
 Nama : Akhmad Riyanto
 Nim  : 13040124120021
+Kelas : A
 
 Berikut koleksi saya :
 ## Koleksi
