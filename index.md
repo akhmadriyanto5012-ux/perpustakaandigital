@@ -3,7 +3,6 @@ Selamat Datang di Perpustakaan Digital
 Nama : Akhmad Riyanto
 Nim  : 13040124120021
 Kelas : A
-
 Berikut koleksi saya :
 ## Koleksi
 1. [modul literasi informasi](ebook/modul literasi informasi.pdf) – akhmad riyanto, dkk (2025)
