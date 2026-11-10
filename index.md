@@ -11,5 +11,8 @@ Berikut ini adalah Koleksi yang dimiliki:
 7. [Hujan Bulan Juni (Sapardi Djoko Damono)](ebook/Hujan Bulan Juni (Sapardi Djoko Damono).pdf) – sapardi djoki damono, dkk (1979)
 8. [Aroma Karsa](ebook/Aroma Karsa.pdf) – deelestari, dkk (2018)
 9. [Laskar Pelangi](ebook/Laskar Pelangi.pdf) – andrea hirata, dkk (2005)
+10. [Hana Tara Hata](ebook/Hana Tara Hata.pdf) – tereliye (2025)
+11. [Seporsi Mie Ayam Sebelum Mati](ebook/Seporsi Mie Ayam Sebelum Mati.pdf) – brian khrisna (2024)
+12. [Purple Eyes](ebook/Purple Eyes.pdf) – prisca primasari (2016)
 ---
 *Powered by GitHub Pages*
